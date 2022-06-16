@@ -2,7 +2,7 @@
 
 ### Oefeningen
 - [x] Oefening 1
-- [ ] Oefening 2
+- [x] Oefening 2
 - [ ] Oefening 3
 - [ ] Oefening 4
 
