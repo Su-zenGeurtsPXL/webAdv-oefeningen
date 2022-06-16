@@ -3,7 +3,7 @@
 ### Oefeningen
 - [x] Oefening 1
 - [x] Oefening 2
-- [ ] Oefening 3
+- [x] Oefening 3
 - [ ] Oefening 4
 
 ### Extra oefeningen
