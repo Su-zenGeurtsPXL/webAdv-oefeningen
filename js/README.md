@@ -7,7 +7,7 @@
 - [x] Oefening 4
 
 ### Extra oefeningen
-- [ ] Extra oefening 1
+- [x] Extra oefening 1
 
 ### Overzichtsoefeningen
 - [ ] Overzichtsoefening 1
