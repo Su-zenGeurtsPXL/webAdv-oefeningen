@@ -4,7 +4,7 @@
 - [x] Oefening 1
 - [x] Oefening 2
 - [x] Oefening 3
-- [ ] Oefening 4
+- [x] Oefening 4
 
 ### Extra oefeningen
 - [ ] Extra oefening 1
